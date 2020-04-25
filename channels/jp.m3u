@@ -61,3 +61,135 @@ https://cdn.jp.jpnettv.live/jptv/jsports2/chunklist_w1010892267.m3u8
 https://cdn.jp.jpnettv.live/jptv/jsports3/chunklist_w1897420437.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese"tvg-logo="https://i.imgur.com/DZfq881.jpg" group-title="Sport",Jsports 4
 https://cdn.jp.jpnettv.live/jptv/jsports4/chunklist_w1773357951.m3u8
+
+#EXTM3U
+#EXTINF:-1, Nippon
+https://cdn.jp.jpnettv.live/jptv/kanto_nippon_540/chunklist_w268686678.m3u8
+#EXTINF:-1, TBS
+https://cdn.jp.jpnettv.live/jptv/kanto_tbs_540/chunklist_w1413764216.m3u8
+#EXTINF:-1,tv asahi 
+https://cdn.jp.jpnettv.live/jptv/kanto_tv_asahi_540/chunklist_w116483737.m3u8
+#EXTINF:-1, Tokyo tv
+https://cdn.jp.jpnettv.live/jptv/kanto_tv_tokyo_540/chunklist_w2006317319.m3u8
+#EXTINF:-1, Tokyo mx
+https://cdn.jp.jpnettv.live/jptv/kanto_tokyo_mx1_540/chunklist_w1401581135.m3u8
+#EXTINF:-1,fuji 540
+https://cdn.jp.jpnettv.live/jptv/kanto_fuji_540/chunklist_w1973734137.m3u8
+#EXTINF:-1,kanto nhk tv
+https://cdn.jp.jpnettv.live/jptv/kanto_nhk_g_540/chunklist_w1867599074.m3u8
+#EXTINF:-1, SUN TV
+https://cdn.jp.jpnettv.live/jptv/kansi_sun_tv_720/chunklist_w252826700.m3u8
+#EXTINF:-1, MBS
+https://cdn.jp.jpnettv.live/jptv/kansi_mbs_720/chunklist_w1786718795.m3u8
+#EXTINF:-1,ABC
+https://cdn.jp.jpnettv.live/jptv/kansi_abc_asahi_720/chunklist_w1478484612.m3u8
+#EXTINF:-1, KANSI TV
+https://cdn.jp.jpnettv.live/jptv/kansi_tv_720/chunklist_w2036720851.m3u8
+#EXTINF:-1, YOMIURI
+https://cdn.jp.jpnettv.live/jptv/kansi_yomiuri_720/chunklist_w1563979999.m3u8
+#EXTINF:-1, OSAKA
+https://cdn.jp.jpnettv.live/jptv/kansi_tv_osaka_720/chunklist_w1961182444.m3u8
+#EXTINF:-1, NHKBS1
+https://cdn.jp.jpnettv.live/jptv/nhkbs1_720/chunklist_w1194040291.m3u8
+#EXTINF:-1, BS PREMIUM
+https://cdn.jp.jpnettv.live/jptv/bspremium_720/chunklist_w542027597.m3u8
+#EXTINF:-1, BS PREMUIM
+https://cdn.jp.jpnettv.live/jptv/bsnihontv_720/chunklist_w278842073.m3u8
+#EXTINF:-1, jptv
+https://cdn.jp.jpnettv.live/jptv/bstbs_720/chunklist_w785555418.m3u8
+#EXTINF:-1,bstbs
+https://cdn.jp.jpnettv.live/jptv/bsjapan_720/chunklist_w1748859641.m3u8
+#EXTINF:-1, BS fuji 
+https://cdn.jp.jpnettv.live/jptv/bsfuji_720/chunklist_w1705118321.m3u8
+#EXTINF:-1, wowprime
+https://cdn.jp.jpnettv.live/jptv/wowprime_720/chunklist_w923175688.m3u8
+#EXTINF:-1, wow live
+https://cdn.jp.jpnettv.live/jptv/wowlive_720/chunklist_w1234751058.m3u8
+#EXTINF:-1, wow cinema 
+https://cdn.jp.jpnettv.live/jptv/wowcinema_720/chunklist_w362903895.m3u8
+#EXTINF:-1, star channel 1
+https://cdn.jp.jpnettv.live/jptv/starch1_720/chunklist_w775378616.m3u8
+#EXTINF:-1, star channel 2
+https://cdn.jp.jpnettv.live/jptv/starch2_720/chunklist_w1600370465.m3u8
+#EXTINF:-1, star channel 3
+https://cdn.jp.jpnettv.live/jptv/starch3_720/chunklist_w1685761242.m3u8
+#EXTINF:-1, wow wow HD
+https://cdn.jp.jpnettv.live/jptv/cinefil_wowow_720/chunklist_w434973941.m3u8
+#EXTINF:-1, j animax 
+https://cdn.jp.jpnettv.live/jptv/janimax_720/chunklist_w960254560.m3u8
+#EXTINF:-1, igasennmonn
+https://cdn.jp.jpnettv.live/jptv/igasennmonn_720/chunklist_w769469883.m3u8
+#EXTINF:-1, kansi_mbs
+https://cdn.jp.jpnettv.live/jptv/kansi_mbs_540/chunklist_w1749469057.m3u8
+#EXTINF:-1, bstbs
+https://cdn.jp.jpnettv.live/jptv/bstbs_540/chunklist_w559812911.m3u8
+#EXTINF:-1, bs japan 
+https://cdn.jp.jpnettv.live/jptv/bsjapan_540/chunklist_w1636643099.m3u8
+#EXTINF:-1, bs fuji 
+https://cdn.jp.jpnettv.live/jptv/bsfuji_540/chunklist_w1347346741.m3u8
+#EXTINF:-1, wow prime 520p
+https://cdn.jp.jpnettv.live/jptv/wowprime_540/chunklist_w1343547276.m3u8
+#EXTINF:-1, wow live 540
+https://cdn.jp.jpnettv.live/jptv/wowlive_540/chunklist_w353841310.m3u8
+#EXTINF:-1, wow cinema 540
+https://cdn.jp.jpnettv.live/jptv/wowcinema_540/chunklist_w634748539.m3u8
+#EXTINF:-1, wow star channel 
+https://cdn.jp.jpnettv.live/jptv/starch3_540/chunklist_w1611534349.m3u8
+#EXTINF:-1, star channel 2 
+https://cdn.jp.jpnettv.live/jptv/starch2_540/chunklist_w1045994417.m3u8
+#EXTINF:-1, golf network
+https://cdn.jp.jpnettv.live/jptv/golf_network_540/chunklist_w955113792.m3u8
+#EXTINF:-1, sky A
+https://cdn.jp.jpnettv.live/jptv/Sky_A/chunklist_w906369902.m3u8
+#EXTINF:-1, GaoRa
+https://cdn.jp.jpnettv.live/jptv/GaoRa/chunklist_w1981578526.m3u8
+#EXTINF:-1, movie plus (english)
+https://cdn.jp.jpnettv.live/jptv/movieplus/chunklist_w1755571235.m3u8
+#EXTINF:-1, MTV
+https://cdn.jp.jpnettv.live/jptv/mtv/chunklist_w1143981580.m3u8
+#EXTINF:-1, national geographic channel 
+https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
+#EXTINF:-1, animal planet 
+https://cdn.jp.jpnettv.live/jptv/Animal/chunklist_w1259405874.m3u8
+#EXTINF:-1, J Discovery
+https://cdn.jp.jpnettv.live/jptv/jdiscovery/chunklist_w272512682.m3u8
+#EXTINF:-1, j kids 
+https://cdn.jp.jpnettv.live/jptv/jkids/chunklist_w688641349.m3u8
+#EXTINF:-1, cartoon network 
+https://cdn.jp.jpnettv.live/jptv/cartoon_network/chunklist_w1402148034.m3u8
+#EXTINF:-1, NECO
+https://cdn.jp.jpnettv.live/jptv/Neco/chunklist_w2065907360.m3u8
+#EXTINF:-1, gekijjyou
+https://cdn.jp.jpnettv.live/jptv/gekijjyou/chunklist_w929564483.m3u8
+#EXTINF:-1,TOA (contains strong content careful)
+https://cdn.jp.jpnettv.live/jptv/TOA/chunklist_w1382492316.m3u8
+#EXTINF:-1, home drama
+https://cdn.jp.jpnettv.live/jptv/Home_Drama/chunklist_w1774606491.m3u8
+#EXTINF:-1, family theater
+https://cdn.jp.jpnettv.live/jptv/familytheater/chunklist_w1577914996.m3u8
+#EXTINF:-1, family theater 
+https://cdn.jp.jpnettv.live/jptv/jidaigeki/chunklist_w967958429.m3u8
+#EXTINF:-1, disney junior 
+https://cdn.jp.jpnettv.live/jptv/disney_junior/chunklist_w312505986.m3u8
+#EXTINF:-1, japan tv G
+https://cdn.jp.jpnettv.live/jptv/japan_tv_G/chunklist_w909013396.m3u8
+#EXTINF:-1, NHK EDUCATION
+https://cdn.jp.jpnettv.live/jptv/kanto_nhk_edu_540/chunklist_w1273829824.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iNwIAso.png" group-title="JAPAN",Eisei Gekijo
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
+ 
+#EXTINF:-1 tvg-logo="http://www.himawari.co.jp/wp-content/uploads/channel_logo_cs_261ch.jpg" group-title="JAPAN",Family Gekijo
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="JAPAN",History
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VVpj6AF.png" group-title="JAPAN",Nihon Eiga TV
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
+ 
+ 
+ 
